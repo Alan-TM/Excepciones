@@ -4,6 +4,12 @@ import java.lang.ArithmeticException
 import java.lang.NullPointerException
 import java.lang.NumberFormatException
 
+/*
+    Alan Torres Morales
+
+    Practica: Exceptions
+ */
+
 fun main() {
     askNombre()
 }
